@@ -2,8 +2,6 @@
 
 # This script installs DotupBashSettings into your script folder
 
-# bash <(wget -qO- https://raw.githubusercontent.com/dotupNET/DotupBashSettings/master/BashSettings.sh)
-
 cd /tmp
 rm DotupBashEssentials*
 wget https://raw.githubusercontent.com/dotupNET/DotupBashEssentials/master/DotupBashEssentials.sh

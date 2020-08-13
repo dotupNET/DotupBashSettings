@@ -1,6 +1,11 @@
 # DotupBashSettings
 Load and save configuration files from bash scripts
 
+Install the script:
+```bash
+bash <(curl -s https://raw.githubusercontent.com/dotupNET/DotupBashSettings/master/install.sh)
+```
+
 Functions:
 - **Bash-LoadSettings** *configFile* *configArray*
 - **Bash-SaveSettings** *configFile* *configArray*
